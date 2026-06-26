@@ -1,0 +1,11 @@
+{
+    "dataset": "Heart Disease",
+    "methode": "Random Forest (baseline)",
+    "n_lignes": 303,
+    "n_features": 13,
+    "test_size": 0.2,
+    "accuracy": 0.8852,
+    "f1_score": 0.8814,
+    "temps_entrainement_s": 0.12,
+    "note": "Référence à battre avec AutoML"
+}

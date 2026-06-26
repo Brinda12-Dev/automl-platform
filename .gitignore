@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Data
+datasets/raw/
+datasets/processed/
+*.csv
+
+# Logs
+*.log
+mlruns/
+
+# Docker
+.docker/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,54 @@
+[
+    {
+        "dataset": "Heart Disease",
+        "domaine": "Sante",
+        "lignes": 303,
+        "baseline_f1": 0.9017,
+        "baseline_acc": 0.9016,
+        "flaml_f1": 0.8526,
+        "flaml_acc": 0.8525,
+        "flaml_auc": 0.9367,
+        "flaml_model": "xgboost",
+        "flaml_time": 119.99,
+        "gain_f1": -0.0491
+    },
+    {
+        "dataset": "Telco Churn",
+        "domaine": "Telecom",
+        "lignes": 7043,
+        "baseline_f1": 0.7824,
+        "baseline_acc": 0.7906,
+        "flaml_f1": 0.7954,
+        "flaml_acc": 0.8034,
+        "flaml_auc": 0.8447,
+        "flaml_model": "xgboost",
+        "flaml_time": 123.56,
+        "gain_f1": 0.013
+    },
+    {
+        "dataset": "Adult Income",
+        "domaine": "Finance",
+        "lignes": 45222,
+        "baseline_f1": 0.8443,
+        "baseline_acc": 0.849,
+        "flaml_f1": 0.8613,
+        "flaml_acc": 0.8652,
+        "flaml_auc": 0.9226,
+        "flaml_model": "xgboost",
+        "flaml_time": 121.36,
+        "gain_f1": 0.017
+    },
+    {
+        "dataset": "Health Big",
+        "domaine": "Sante",
+        "lignes": 101766,
+        "baseline_f1": 0.6314,
+        "baseline_acc": 0.635,
+        "flaml_f1": 0.6443,
+        "flaml_acc": 0.6461,
+        "flaml_auc": 0.6986,
+        "flaml_model": "xgboost",
+        "flaml_time": 144.01,
+        "gain_f1": 0.0129
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "dataset": "Heart Disease",
+        "lignes": 303,
+        "optuna_f1": 0.8854,
+        "optuna_acc": 0.8852,
+        "n_trials": 270,
+        "time": 120.72
+    },
+    {
+        "dataset": "Telco Churn",
+        "lignes": 7043,
+        "optuna_f1": 0.7906,
+        "optuna_acc": 0.7999,
+        "n_trials": 112,
+        "time": 121.06
+    },
+    {
+        "dataset": "Adult Income",
+        "lignes": 45222,
+        "optuna_f1": 0.8642,
+        "optuna_acc": 0.8683,
+        "n_trials": 78,
+        "time": 121.77
+    },
+    {
+        "dataset": "Health Big",
+        "lignes": 101766,
+        "optuna_f1": 0.6445,
+        "optuna_acc": 0.6472,
+        "n_trials": 22,
+        "time": 122.52
+    }
+]
