@@ -27,3 +27,5 @@ mlruns/
 .DS_Store
 Thumbs.db"models/" 
 "backend/catboost_*/" 
+".env.backup" 
+".env" 
