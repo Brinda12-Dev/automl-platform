@@ -25,4 +25,5 @@ mlruns/
 
 # OS
 .DS_Store
-Thumbs.db
+Thumbs.db"models/" 
+"backend/catboost_*/" 
